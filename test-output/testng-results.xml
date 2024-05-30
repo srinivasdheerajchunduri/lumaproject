@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="27" passed="27" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-30T15:18:41 IST" name="Default suite" finished-at="2024-05-30T15:21:23 IST" duration-ms="161815">
+    <groups>
+    </groups>
+    <test started-at="2024-05-30T15:18:41 IST" name="Default test" finished-at="2024-05-30T15:21:23 IST" duration-ms="161815">
+      <class name="TestScenarios.TestMethods">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:18:41 IST" name="beforetest" finished-at="2024-05-30T15:19:01 IST" duration-ms="19620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="Account()[pri:1, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:01 IST" name="Account" finished-at="2024-05-30T15:19:03 IST" duration-ms="2369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Account -->
+        <test-method signature="FillAccountDetails()[pri:2, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:03 IST" name="FillAccountDetails" finished-at="2024-05-30T15:19:06 IST" duration-ms="3067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillAccountDetails -->
+        <test-method signature="WhatsNew()[pri:3, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:06 IST" name="WhatsNew" finished-at="2024-05-30T15:19:08 IST" duration-ms="1786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WhatsNew -->
+        <test-method signature="Hoodies()[pri:4, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:08 IST" name="Hoodies" finished-at="2024-05-30T15:19:10 IST" duration-ms="2328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hoodies -->
+        <test-method signature="ClickPic()[pri:5, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:10 IST" name="ClickPic" finished-at="2024-05-30T15:19:20 IST" duration-ms="10064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickPic -->
+        <test-method signature="SeSize()[pri:6, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:20 IST" name="SeSize" finished-at="2024-05-30T15:19:30 IST" duration-ms="10030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeSize -->
+        <test-method signature="SeColor()[pri:7, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:30 IST" name="SeColor" finished-at="2024-05-30T15:19:31 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeColor -->
+        <test-method signature="AddCart()[pri:8, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:31 IST" name="AddCart" finished-at="2024-05-30T15:19:31 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCart -->
+        <test-method signature="ClickMoreInfo()[pri:9, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:31 IST" name="ClickMoreInfo" finished-at="2024-05-30T15:19:35 IST" duration-ms="4220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickMoreInfo -->
+        <test-method signature="GoHome()[pri:10, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:35 IST" name="GoHome" finished-at="2024-05-30T15:19:37 IST" duration-ms="1730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoHome -->
+        <test-method signature="search()[pri:11, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:37 IST" name="search" finished-at="2024-05-30T15:19:41 IST" duration-ms="4749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="Sort()[pri:12, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:41 IST" name="Sort" finished-at="2024-05-30T15:19:51 IST" duration-ms="10085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sort -->
+        <test-method signature="ShowDrop()[pri:13, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:19:51 IST" name="ShowDrop" finished-at="2024-05-30T15:20:02 IST" duration-ms="10049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShowDrop -->
+        <test-method signature="CartClick()[pri:14, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:02 IST" name="CartClick" finished-at="2024-05-30T15:20:02 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartClick -->
+        <test-method signature="AcrendingOrder()[pri:15, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:02 IST" name="AcrendingOrder" finished-at="2024-05-30T15:20:12 IST" duration-ms="10055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AcrendingOrder -->
+        <test-method signature="ClickShort()[pri:16, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:12 IST" name="ClickShort" finished-at="2024-05-30T15:20:22 IST" duration-ms="10045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickShort -->
+        <test-method signature="ItemGrid()[pri:17, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:22 IST" name="ItemGrid" finished-at="2024-05-30T15:20:24 IST" duration-ms="2078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ItemGrid -->
+        <test-method signature="CategoryCl()[pri:18, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:24 IST" name="CategoryCl" finished-at="2024-05-30T15:20:26 IST" duration-ms="2064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CategoryCl -->
+        <test-method signature="Sale()[pri:19, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:26 IST" name="Sale" finished-at="2024-05-30T15:20:31 IST" duration-ms="5427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sale -->
+        <test-method signature="Stle()[pri:20, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:31 IST" name="Stle" finished-at="2024-05-30T15:20:41 IST" duration-ms="10020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stle -->
+        <test-method signature="Luggage()[pri:21, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:41 IST" name="Luggage" finished-at="2024-05-30T15:20:51 IST" duration-ms="10019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Luggage -->
+        <test-method signature="ForwardArrow()[pri:22, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:51 IST" name="ForwardArrow" finished-at="2024-05-30T15:20:56 IST" duration-ms="5020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForwardArrow -->
+        <test-method signature="BackwardArrow()[pri:23, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:20:56 IST" name="BackwardArrow" finished-at="2024-05-30T15:21:06 IST" duration-ms="10046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackwardArrow -->
+        <test-method signature="clickBagging()[pri:24, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:21:06 IST" name="clickBagging" finished-at="2024-05-30T15:21:16 IST" duration-ms="10038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBagging -->
+        <test-method signature="HomepageafteraddingItemtoCart()[pri:25, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:21:16 IST" name="HomepageafteraddingItemtoCart" finished-at="2024-05-30T15:21:18 IST" duration-ms="1948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageafteraddingItemtoCart -->
+        <test-method signature="Signin()[pri:26, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:21:18 IST" name="Signin" finished-at="2024-05-30T15:21:22 IST" duration-ms="4080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method signature="login()[pri:27, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:21:22 IST" name="login" finished-at="2024-05-30T15:21:23 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TestScenarios.TestMethods@702657cc]" started-at="2024-05-30T15:21:23 IST" name="aftertest" finished-at="2024-05-30T15:21:23 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- TestScenarios.TestMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

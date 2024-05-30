@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="TestScenarios.TestMethods">
+        <methods>
+          <include name="Sale"/>
+          <include name="AcrendingOrder"/>
+          <include name="HomepageafteraddingItemtoCart"/>
+          <include name="Account"/>
+          <include name="FillAccountDetails"/>
+          <include name="ShowDrop"/>
+          <include name="login"/>
+          <include name="Luggage"/>
+          <include name="SeSize"/>
+          <include name="BackwardArrow"/>
+          <include name="search"/>
+          <include name="Stle"/>
+          <include name="ItemGrid"/>
+          <include name="Signin"/>
+          <include name="Sort"/>
+          <include name="beforetest"/>
+          <include name="GoHome"/>
+          <include name="Hoodies"/>
+          <include name="ClickShort"/>
+          <include name="aftertest"/>
+          <include name="ClickPic"/>
+          <include name="ForwardArrow"/>
+          <include name="clickBagging"/>
+          <include name="ClickMoreInfo"/>
+          <include name="SeColor"/>
+          <include name="CartClick"/>
+          <include name="WhatsNew"/>
+          <include name="CategoryCl"/>
+          <include name="AddCart"/>
+        </methods>
+      </class> <!-- TestScenarios.TestMethods -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
